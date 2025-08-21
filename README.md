@@ -5,4 +5,6 @@ I added a line about dinosaurs.
 
 I added a line about dragons.
 
+I added a line about unicorns.
 I added a line about squirrels.
+We now have both lines.
